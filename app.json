@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "shimApp-nonsenseQuiz",
+    "slug": "shimApp-nonsenseQuiz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "shimApp-nonsenseQuiz"
+}
