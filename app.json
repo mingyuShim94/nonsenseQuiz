@@ -5,7 +5,15 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4a640cd0-8b5a-4dce-b647-259df789913b"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8647279125417942~6521171507"
   },
   "name": "shimApp-nonsenseQuiz"
 }
