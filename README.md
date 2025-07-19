@@ -9,6 +9,7 @@
 기존의 넌센스 퀴즈 게임들이 가진 낮은 품질의 그림 문제를 개선하고자, **그림 생성 AI(Midjourney)**를 활용하여 시각적으로 뛰어난 퀴즈 이미지를 제작했습니다. 이를 통해 사용자들에게 더 높은 몰입감과 재미를 선사하는 것을 목표로 합니다.
 
 - **웹사이트**: [https://nonsense-quiz-k66oww45s-mingyushim94.vercel.app/](https://nonsense-quiz-k66oww45s-mingyushim94.vercel.app/)
+- **Android**: [https://play.google.com/store/apps/details?id=com.shimappnonsensequiz](https://play.google.com/store/apps/details?id=com.shimappnonsensequiz)
 
 ## 기술 요약
 
